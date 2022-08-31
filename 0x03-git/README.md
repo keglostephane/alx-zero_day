@@ -1,1 +1,1 @@
-= A git based project
+A Git based project
